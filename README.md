@@ -7,15 +7,11 @@ The model is designed to learn optimal trading decisions such as buy, sell, or h
 
 The goal of this project is to explore how reinforcement learning can be applied to cryptocurrency trading environments to identify profitable strategies and understand market behavior.
 
-⸻
-
 Project Objectives
 	•	Apply Deep Reinforcement Learning to financial time series data.
 	•	Train an agent to learn trading decisions from Bitcoin market data.
 	•	Simulate a trading environment using historical price movements.
 	•	Evaluate the performance of the model on trading outcomes.
-
-⸻
 
 Dataset
 
@@ -27,8 +23,6 @@ The dataset used in this project consists of Bitcoin trading data, which include
 	•	Time-based market indicators
 
 These features allow the model to observe market patterns and make decisions accordingly.
-
-⸻
 
 Methodology
 
@@ -47,7 +41,6 @@ The project follows a reinforcement learning framework:
 	5.	Model Training
 	•	A Deep Reinforcement Learning model learns trading strategies through iterative interaction with the dataset.
 
-⸻
 
 Technologies Used
 	•	Python
